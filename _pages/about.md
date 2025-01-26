@@ -72,6 +72,52 @@ Extract, Transform, Load (ETL)
   </div>
   
 </div>
+
+# Skills
+
+<div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif;">
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 14px;">Python</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px; box-shadow: inset 0 0 5px #ccc;">
+      <div style="background: linear-gradient(90deg, #a020f0, #ff77ff); width: 90%; height: 100%; border-radius: 10px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 14px;">SQL</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px; box-shadow: inset 0 0 5px #ccc;">
+      <div style="background: linear-gradient(90deg, #a020f0, #ff77ff); width: 80%; height: 100%; border-radius: 10px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 14px;">Azure Databricks</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px; box-shadow: inset 0 0 5px #ccc;">
+      <div style="background: linear-gradient(90deg, #a020f0, #ff77ff); width: 85%; height: 100%; border-radius: 10px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 14px;">Azure Data Factory</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px; box-shadow: inset 0 0 5px #ccc;">
+      <div style="background: linear-gradient(90deg, #a020f0, #ff77ff); width: 75%; height: 100%; border-radius: 10px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 14px;">Machine Learning</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px; box-shadow: inset 0 0 5px #ccc;">
+      <div style="background: linear-gradient(90deg, #a020f0, #ff77ff); width: 70%; height: 100%; border-radius: 10px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);"></div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
 # Skills
 
 <div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif;">
