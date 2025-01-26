@@ -74,6 +74,55 @@ Extract, Transform, Load (ETL)
 </div>
 
 
+
+# Skills
+
+<div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif; color: #e0e0e0;">
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 12px;">Python</p>
+    <div style="background-color: #1a1a1a; width: 100%; height: 10px; position: relative; border: 1px solid #333;">
+      <div style="background-color: #444; width: 90%; height: 100%;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 12px;">SQL</p>
+    <div style="background-color: #1a1a1a; width: 100%; height: 10px; position: relative; border: 1px solid #333;">
+      <div style="background-color: #444; width: 80%; height: 100%;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 12px;">Azure Databricks</p>
+    <div style="background-color: #1a1a1a; width: 100%; height: 10px; position: relative; border: 1px solid #333;">
+      <div style="background-color: #444; width: 85%; height: 100%;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 12px;">Azure Data Factory</p>
+    <div style="background-color: #1a1a1a; width: 100%; height: 10px; position: relative; border: 1px solid #333;">
+      <div style="background-color: #444; width: 75%; height: 100%;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0; font-size: 12px;">Machine Learning</p>
+    <div style="background-color: #1a1a1a; width: 100%; height: 10px; position: relative; border: 1px solid #333;">
+      <div style="background-color: #444; width: 70%; height: 100%;"></div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
 # Skills
 
 <div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif;">
