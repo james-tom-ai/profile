@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "James's Profile"
+title: "Hey!"
 author_profile: true
 redirect_from: 
   - /about/
