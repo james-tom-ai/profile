@@ -72,6 +72,46 @@ Extract, Transform, Load (ETL)
   </div>
   
 </div>
+# Skills
+
+<div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif;">
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0;">Python</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px;">
+      <div style="background-color: #6c63ff; width: 90%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0;">SQL</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px;">
+      <div style="background-color: #6c63ff; width: 80%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0;">Azure Databricks</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px;">
+      <div style="background-color: #6c63ff; width: 85%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0;">Azure Data Factory</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px;">
+      <div style="background-color: #6c63ff; width: 75%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <p style="margin: 0;">Machine Learning</p>
+    <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 15px;">
+      <div style="background-color: #6c63ff; width: 70%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+
+</div>
 
 
 
