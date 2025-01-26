@@ -74,6 +74,50 @@ Extract, Transform, Load (ETL)
 </div>
 
 
+# Experience Timeline
+
+<div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif; color: #e0e0e0;">
+
+  <!-- Timeline container -->
+  <div style="position: relative; padding-left: 30px; border-left: 2px solid #333; margin-top: 20px;">
+
+    <!-- Experience item -->
+    <div style="margin-bottom: 20px; position: relative;">
+      <div style="width: 12px; height: 12px; background-color: #e0e0e0; border-radius: 50%; position: absolute; left: -8px; top: 5px;"></div>
+      <p style="margin: 0; font-size: 14px; font-weight: bold;">Lead MLE & Data Scientist</p>
+      <p style="margin: 0; font-size: 12px; color: #aaa;">BrainSightAI</p>
+      <p style="margin: 0; font-size: 12px; color: #777;">July 2023 - Present</p>
+    </div>
+
+    <!-- Experience item -->
+    <div style="margin-bottom: 20px; position: relative;">
+      <div style="width: 12px; height: 12px; background-color: #e0e0e0; border-radius: 50%; position: absolute; left: -8px; top: 5px;"></div>
+      <p style="margin: 0; font-size: 14px; font-weight: bold;">Senior MLE & Data Scientist</p>
+      <p style="margin: 0; font-size: 12px; color: #aaa;">BrainSightAI</p>
+      <p style="margin: 0; font-size: 12px; color: #777;">May 2022 - July 2023</p>
+    </div>
+
+    <!-- Experience item -->
+    <div style="margin-bottom: 20px; position: relative;">
+      <div style="width: 12px; height: 12px; background-color: #e0e0e0; border-radius: 50%; position: absolute; left: -8px; top: 5px;"></div>
+      <p style="margin: 0; font-size: 14px; font-weight: bold;">Machine Learning Engineer</p>
+      <p style="margin: 0; font-size: 12px; color: #aaa;">BrainSightAI</p>
+      <p style="margin: 0; font-size: 12px; color: #777;">August 2021 - May 2022</p>
+    </div>
+
+    <!-- Experience item -->
+    <div style="margin-bottom: 20px; position: relative;">
+      <div style="width: 12px; height: 12px; background-color: #e0e0e0; border-radius: 50%; position: absolute; left: -8px; top: 5px;"></div>
+      <p style="margin: 0; font-size: 14px; font-weight: bold;">Programmer Analyst Trainee</p>
+      <p style="margin: 0; font-size: 12px; color: #aaa;">Cognizant</p>
+      <p style="margin: 0; font-size: 12px; color: #777;">June 2020 - August 2021</p>
+    </div>
+
+  </div>
+
+</div>
+
+
 
 # Skills
 
