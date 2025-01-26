@@ -14,7 +14,7 @@ But here's the catch: beyond my experience lies a curiosity-driven expertise tha
 Eager to connect and explore roles that leverage my data engineering expertise while incorporating my interests in machine learning and AI. Let's collaborate and drive success through cutting-edge technology and data-driven solutions.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="profile.png" alt="Image 1" style="width: 45%;"/>
+  <img src="profile.PNG" alt="Image 1" style="width: 45%;"/>
   <img src="profile.png" alt="Image 2" style="width: 45%;"/>
 </div>
 
