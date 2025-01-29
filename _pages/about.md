@@ -250,7 +250,7 @@ Extract, Transform, Load (ETL)
 
     <!-- Senior MLE & Data Scientist -->
     <div style="position: relative; margin-bottom: 30px;">
-      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: black; display: flex; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: bold;"></div>
+      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: black; display: flex; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: bold;">2024</div>
       <h3 style="color: black; margin: 0;">Senior MLE & Data Scientist</h3>
       <div style="display: flex; align-items: center; margin: 5px 0;">
         <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
