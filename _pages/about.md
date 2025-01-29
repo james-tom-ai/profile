@@ -44,12 +44,12 @@ Extract, Transform, Load (ETL) and Azure Databricks
 Extract, Transform, Load (ETL)
 
 # Experience
-*My journey in the academic & professional front*
+
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; font-family: Arial, sans-serif;">
 
-  <div style="border-left: 3px solid #6c63ff; margin-left: 20px; padding-left: 20px; position: relative;">
-    <div style="position: absolute; left: -15px; top: 0; background-color: #6c63ff; width: 10px; height: 10px; border-radius: 50%;"></div>
+  <div style="border-left: 3px solid #6c63ff; margin-left: 20px; padding-left: 20px; position: relative
+   
     <h3 style="margin: 0; color: #4a4a4a;">Lead MLE & Data Scientist</h3>
     <p style="margin: 0; font-weight: bold;">BrainSightAI</p>
     <p style="margin: 0; font-size: 0.9em; color: #6c63ff;">Jul 2023 - Present</p>
