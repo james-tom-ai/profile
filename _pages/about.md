@@ -40,7 +40,33 @@ Eager to connect and explore roles that leverage my data engineering expertise w
 
 
 
+# Work Experience
 
+<div style="background-color: white; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
+  <!-- Job 1 -->
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; align-items: center;">
+      <div style="width: 50px; height: 50px; background-color: darkgreen; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 20px; font-weight: bold;">1</div>
+      <div style="margin-left: 20px;">
+        <h3 style="color: black; margin: 0;">Position at Company 1</h3>
+        <p style="color: darkgreen; margin: 5px 0; font-style: italic;">Years of Experience: X years</p>
+      </div>
+    </div>
+    <p style="color: black; margin-left: 70px;">Short description of your role and responsibilities at Company 1. Highlight key achievements and skills gained.</p>
+  </div>
+
+  <!-- Job 2 -->
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; align-items: center;">
+      <div style="width: 50px; height: 50px; background-color: darkgreen; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 20px; font-weight: bold;">2</div>
+      <div style="margin-left: 20px;">
+        <h3 style="color: black; margin: 0;">Position at Company 2</h3>
+        <p style="color: darkgreen; margin: 5px 0; font-style: italic;">Years of Experience: Y years</p>
+      </div>
+    </div>
+    <p style="color: black; margin-left: 70px;">Short description of your role and responsibilities at Company 2. Highlight key achievements and skills gained.</p>
+  </div>
+</div>
 
 <!--  
 #create an image
