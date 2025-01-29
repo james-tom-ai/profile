@@ -235,7 +235,7 @@ Extract, Transform, Load (ETL)
 
 <div style="background-color: white; padding: 20px; font-family: Arial, sans-serif;">
   <!-- Timeline Container -->
-  <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 20px;">
+  <div style="border-left: 4px solid grey; padding-left: 20px; margin-left: 20px;">
     
     <!-- Lead MLE & Data Scientist -->
     <div style="position: relative; margin-bottom: 30px;">
@@ -353,7 +353,7 @@ Extract, Transform, Load (ETL)
       <div style="background-color: orange; width: 70%; height: 100%;"></div>
     </div>
   </div>
-
+</div>
 </div>
 
 
