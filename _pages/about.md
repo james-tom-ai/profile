@@ -13,33 +13,34 @@ But here's the catch: beyond my experience lies a curiosity-driven expertise tha
 
 Eager to connect and explore roles that leverage my data engineering expertise while incorporating my interests in machine learning and AI. Let's collaborate and drive success through cutting-edge technology and data-driven solutions.
 
+<!--  
+#create an image
 <div style="display: flex; justify-content: space-between;">
   <img src="profile.PNG" alt="Image 1" style="width: 45%;"/>
   <img src="profile.png" alt="Image 2" style="width: 45%;"/>
 </div>
+-->
+
 
 # Experience
 *My journey in the academic & professional front*
 
 
-Cognizant
-Cognizant
-3 yrs3 yrs
-Data Engineer
-Data Engineer
-Full-timeFull-time
-Aug 2022 - Present · 2 yrs 6 mosAug 2022 to Present · 2 yrs 6 mos
-Kochi, Kerala, IndiaKochi, Kerala, India
-Authored pyspark notebooks for migrating from Informatica to Azure Cloud, focusing on Azure Databricks to enhance data processing and transformation. Leveraged Azure Data Factory (ADF) to orchestrate efficient, high-performance data pipelines.
+##Cognizant
+XP: 3 yrs
+-Data Engineer
+  Aug 2022 - Present · 2 yrs 6 mos
+  Kochi, Kerala, India 
+  Authored pyspark notebooks for migrating from Informatica to Azure Cloud, focusing on Azure Databricks to enhance data processing and transformation. Leveraged Azure Data Factory (ADF) to orchestrate efficient, high-performance data pipelines.
 
 Played a key role in developing a framework for seamless integration of services to the cloud, including batch processing, logging, data ingestion, distribution, utilities, and transformations using custom modules.Authored pyspark notebooks for migrating from Informatica to Azure Cloud, focusing on Azure Databricks to enhance data processing and transformation. Leveraged Azure Data Factory (ADF) to orchestrate efficient, high-performance data pipelines. Played a key role in developing a framework for seamless integration of services to the cloud, including batch processing, logging, data ingestion, distribution, utilities, and transformations using custom modules.…see more
 Extract, Transform, Load (ETL) and Azure Databricks
-Big Data Analytics Intern
-Big Data Analytics Intern
-InternshipInternship
-Feb 2022 - Jul 2022 · 6 mosFeb 2022 to Jul 2022 · 6 mos
-Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India
-Gained knowledge and hands-on experience in Big Data frameworks by working extensively with Hadoop and Apache Spark, focusing on large-scale data processing and analysis.Gained knowledge and hands-on experience in Big Data frameworks by working extensively with Hadoop and Apache Spark, focusing on large-scale data processing and analysis.
+
+-Big Data Analytics Intern
+  Internship
+  Feb 2022 - Jul 2022 · 6 mosFeb 2022 to Jul 2022 · 6 mos
+  Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India
+  Gained knowledge and hands-on experience in Big Data frameworks by working extensively with Hadoop and Apache Spark, focusing on large-scale data processing and analysis.Gained knowledge and hands-on experience in Big Data frameworks by working extensively with Hadoop and Apache Spark, focusing on large-scale data processing and analysis.
 Extract, Transform, Load (ETL)
 
 # Experience
