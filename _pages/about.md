@@ -240,11 +240,11 @@ Extract, Transform, Load (ETL)
     <!-- Lead MLE & Data Scientist -->
     <div style="position: relative; margin-bottom: 30px;">
     <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: black;"></div>
-      <h3 style="color: black; margin: 0;">Data Engineer</h3>
+      <h2 style="color: black; margin: 0;">Data Engineer</h2>
       <div style="display: flex; align-items: center; margin: 5px 0;">
         <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
-<h4 style="color: black; margin: 0;">Cognizant</h4>
-<p style="color: darkgrey; margin: 0; font-style: italic;">Jan 2022 - Present</p>
+<h3 style="color: darkgrey; margin: 0;">Cognizant</h3>
+<p style="color: darkgrey; margin: 0; font-style: italic;font-size: 14px;">                 Jan 2022 - Present</p>
       </div>
       <p style="color: black; margin-left: 20px;font-size: 12px;">Played a key role in developing a framework for seamless integration of services to the cloud, including batch processing, logging, data ingestion, distribution, utilities, and transformations using custom modules.Authored pyspark notebooks for migrating from Informatica to Azure Cloud, focusing on Azure Databricks to enhance data processing and transformation. Leveraged Azure Data Factory (ADF) to orchestrate efficient, high-performance data pipelines. Played a key role in developing a framework for seamless integration of services to the cloud, including batch processing, logging, data ingestion, distribution, utilities, and transformations using custom modules.…see more
 Extract, Transform, Load (ETL) and Azure Databricks</p>
