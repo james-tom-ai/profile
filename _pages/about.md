@@ -243,18 +243,18 @@ Extract, Transform, Load (ETL)
       <h3 style="color: black; margin: 0;">Lead MLE & Data Scientist</h3>
       <div style="display: flex; align-items: center; margin: 5px 0;">
         <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
-        <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSightAI | Jul 2023 - Present</p>
+        <p style="color: darkblue; margin: 0; font-style: italic;">Cognizant | Jul 2023 - Present</p>
       </div>
       <p style="color: black; margin-left: 20px;">Description of your role and achievements.</p>
     </div>
 
     <!-- Senior MLE & Data Scientist -->
     <div style="position: relative; margin-bottom: 30px;">
-      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: black; display: flex; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: bold;">2024</div>
+      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: black; display: flex; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: bold;"></div>
       <h3 style="color: black; margin: 0;">Senior MLE & Data Scientist</h3>
       <div style="display: flex; align-items: center; margin: 5px 0;">
         <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
-        <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSightAI | May 2022 - Jul 2023</p>
+        <p style="color: darkorange; margin: 0; font-style: italic;">Inventeron Technologies | May 2022 - Jul 2023</p>
       </div>
       <p style="color: black; margin-left: 20px;">Description of your role and achievements.</p>
     </div>
