@@ -21,7 +21,7 @@ Eager to connect and explore roles that leverage my data engineering expertise w
   <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 10px;">
     <!-- Job 1 -->
     <div style="position: relative; margin-bottom: 30px;">
-      <div style="position: absolute; left: -25px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
+      </div>
       <h3 style="color: black; margin-top: 0;">Position at Company 1</h3>
       <p style="color: darkgreen; font-style: italic;">Years of Experience: X years</p>
       <p style="color: black;">Short description of your role and responsibilities at Company 1. Highlight key achievements and skills gained.</p>
