@@ -22,6 +22,10 @@ Eager to connect and explore roles that leverage my data engineering expertise w
     <!-- Job 1 -->
     <div style="position: relative; margin-bottom: 30px;">
       </div>
+        <div style="display: flex; align-items: center;">
+      <!-- Company Logo
+      <img src="https://via.placeholder.com/50x50" alt="Company 1 Logo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 20px;">  -->
+      ![cog_logo](/images/cog_logo.png){: .align-right width="300px"}
       <h3 style="color: black; margin-top: 0;">Position at Company 1</h3>
       <p style="color: darkgreen; font-style: italic;">Years of Experience: X years</p>
       <p style="color: black;">Short description of your role and responsibilities at Company 1. Highlight key achievements and skills gained.</p>
