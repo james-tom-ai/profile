@@ -18,18 +18,21 @@ Eager to connect and explore roles that leverage my data engineering expertise w
 # Work Experience
 
  <!-- <div style="background-color: white; padding: 20px; border-radius: 10px;"> -->
+ <img src="https://logos-world.net/wp-content/uploads/2022/04/Cognizant-New-Logo.png" alt="Company 1 Logo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 20px;">
   <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 10px;">
     <!-- Job 1 -->
     <div style="position: relative; margin-bottom: 30px;">
       </div>
-        <div style="display: flex; align-items: center;">
+<!--         <div style="display: flex; align-items: center;"> -->
       <!-- Company Logo -->
-     <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="Company 1 Logo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 20px;">
+     
    
       <h3 style="color: black; margin-top: 0;">Position at Company 1</h3>
       <p style="color: darkgreen; font-style: italic;">Years of Experience: X years</p>
       <p style="color: black;">Short description of your role and responsibilities at Company 1. Highlight key achievements and skills gained.</p>
     </div>
+
+  <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="Company 1 Logo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 20px;">   
  <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 10px;">
     <!-- Job 2 -->
     <div style="position: relative; margin-bottom: 30px;">
