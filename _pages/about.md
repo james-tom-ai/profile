@@ -17,8 +17,8 @@ Eager to connect and explore roles that leverage my data engineering expertise w
 
 # Work Experience
 
- <!-- <div style="background-color: white; padding: 20px; border-radius: 10px;"> -->
- <img src="https://logos-world.net/wp-content/uploads/2022/04/Cognizant-New-Logo.png" alt="Company 1 Logo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 20px;">
+ <div style="background-color: white; padding: 20px; border-radius: 10px;"> 
+ <img src="https://logos-world.net/wp-content/uploads/2022/04/Cognizant-New-Logo.png" alt="Company 1 Logo" style="width: 500px; height: 100px; border-radius: 50%; margin-right: 20px;">
   <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 10px;">
     <!-- Job 1 -->
     <div style="position: relative; margin-bottom: 30px;">
@@ -32,7 +32,7 @@ Eager to connect and explore roles that leverage my data engineering expertise w
       <p style="color: black;">Short description of your role and responsibilities at Company 1. Highlight key achievements and skills gained.</p>
     </div>
 
-  <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="Company 1 Logo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 20px;">   
+  <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="Company 1 Logo" style="width: 500px; height: 100px; border-radius: 50%; margin-right: 20px;">   
  <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 10px;">
     <!-- Job 2 -->
     <div style="position: relative; margin-bottom: 30px;">
@@ -42,7 +42,7 @@ Eager to connect and explore roles that leverage my data engineering expertise w
       <p style="color: black;">Short description of your role and responsibilities at Company 2. Highlight key achievements and skills gained.</p>
     </div>
 
-
+</div>
 
 
 
