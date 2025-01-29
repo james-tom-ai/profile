@@ -239,7 +239,7 @@ Extract, Transform, Load (ETL)
     
     <!-- Lead MLE & Data Scientist -->
     <div style="position: relative; margin-bottom: 30px;">
-      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
+    <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: black;"></div>
       <h3 style="color: black; margin: 0;">Lead MLE & Data Scientist</h3>
       <div style="display: flex; align-items: center; margin: 5px 0;">
         <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
