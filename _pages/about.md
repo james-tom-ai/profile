@@ -227,7 +227,45 @@ Extract, Transform, Load (ETL)
 
 </div>
 
+# Experience
 
+**My journey in the academic & professional front**
+
+---
+
+<div style="background-color: white; padding: 20px; font-family: Arial, sans-serif;">
+  <!-- Timeline Container -->
+  <div style="border-left: 4px solid darkgreen; padding-left: 20px; margin-left: 20px;">
+    
+    <!-- Lead MLE & Data Scientist -->
+    <div style="position: relative; margin-bottom: 30px;">
+      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
+      <h3 style="color: black; margin: 0;">Lead MLE & Data Scientist</h3>
+      <div style="display: flex; align-items: center; margin: 5px 0;">
+        <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSightAI | Jul 2023 - Present</p>
+      </div>
+      <p style="color: black; margin-left: 20px;">Description of your role and achievements.</p>
+    </div>
+
+    <!-- Senior MLE & Data Scientist -->
+    <div style="position: relative; margin-bottom: 30px;">
+      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
+      <h3 style="color: black; margin: 0;">Senior MLE & Data Scientist</h3>
+      <div style="display: flex; align-items: center; margin: 5px 0;">
+        <img src=""https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSightAI | May 2022 - Jul 2023</p>
+      </div>
+      <p style="color: black; margin-left: 20px;">Description of your role and achievements.</p>
+    </div>
+
+    <!-- Machine Learning Engineer -->
+    <div style="position: relative; margin-bottom: 30px;">
+      <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
+      <h3 style="color: black; margin: 0;">Machine Learning Engineer</h3>
+      <div style="display: flex; align-items: center; margin: 5px 0;">
+        <img src=""https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSight
 
 # Skills
 
