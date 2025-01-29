@@ -242,7 +242,7 @@ Extract, Transform, Load (ETL)
       <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
       <h3 style="color: black; margin: 0;">Lead MLE & Data Scientist</h3>
       <div style="display: flex; align-items: center; margin: 5px 0;">
-        <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
         <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSightAI | Jul 2023 - Present</p>
       </div>
       <p style="color: black; margin-left: 20px;">Description of your role and achievements.</p>
@@ -253,7 +253,7 @@ Extract, Transform, Load (ETL)
       <div style="position: absolute; left: -32px; top: 0; width: 20px; height: 20px; background-color: darkgreen; border-radius: 50%;"></div>
       <h3 style="color: black; margin: 0;">Senior MLE & Data Scientist</h3>
       <div style="display: flex; align-items: center; margin: 5px 0;">
-        <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="BrainSightAI Logo" style="width: 20px; height: 20px; margin-right: 10px;">
+        <img src="https://www.inventeron.com/wp-content/uploads/2020/07/inventeron-logo-2048x1448.png" alt="BrainSightAI Logo" style="width: 40px; height: 40px; margin-right: 10px;">
         <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSightAI | May 2022 - Jul 2023</p>
       </div>
       <p style="color: black; margin-left: 20px;">Description of your role and achievements.</p>
@@ -266,7 +266,7 @@ Extract, Transform, Load (ETL)
       <div style="display: flex; align-items: center; margin: 5px 0;">
         <img src="https://lh6.googleusercontent.com/-3R26hGFGgYo/AAAAAAAAAAI/AAAAAAAAR4s/3Yuo0SvwuJE/s0-c-k-no-ns/photo.jpg" alt="BrainSightAI Logo" style="width: 20px; height: 20px; margin-right: 10px;">
         <p style="color: darkgreen; margin: 0; font-style: italic;">BrainSight
-
+<!--
 # Skills
 
 <div style="width: 100%; max-width: 600px; font-family: Arial, sans-serif; color: #e0e0e0;">
@@ -373,7 +373,7 @@ Extract, Transform, Load (ETL)
 
 
 
-
+-->
 
 
 # Skills
